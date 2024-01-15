@@ -1,18 +1,22 @@
 #include <iostream>
+#include<string>
 
 using namespace std;
 
+class FoodItem
+{
+public:
+
+};
+
+
+
+
+
 int main()
 {
-    cout << "Hello world!" << endl;
-    cout << "Hello world!" << endl;
-    cout << "Hello world!" << endl;
-    cout << "Hello world!" << endl;
-
-
-
-
-
-
+    cout<< "                             Welcome To Our Poor Restaurant  "<<endl;
+    cout<< "              ............................................................"<<endl<<endl<<endl;
+    cout<< "Here is the MENU card of our restaurant. Please order your Food item & enjoy your Moment."<<endl;
     return 0;
 }
